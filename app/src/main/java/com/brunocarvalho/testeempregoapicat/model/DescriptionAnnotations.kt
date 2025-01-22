@@ -1,0 +1,3 @@
+package com.brunocarvalho.testeempregoapicat.model
+
+class DescriptionAnnotations
